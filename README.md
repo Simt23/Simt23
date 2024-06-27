@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-###
+<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 😄 My self Simran Tomar student at Msit.<br>🔭 I’m currently working on Front-end tech<br>🌱 I’m currently learning Web-2(ReactJS)<br>👯 I’m looking to collaborate on web2 front-end based project.<br>💬 Ask me about ...<br>📫 How to reach me: simrantomar987@gmail.com<br>
 
@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 
 
-###
+
+
+
 
 ---
